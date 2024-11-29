@@ -93,7 +93,7 @@ const Sidebar = () => {
             isSidebarCollapsed ? "hidden" : "block"
           } font-extrabold text-2xl`}
         >
-          EDSTOCK
+          BIZSTOCK
         </h1>
 
         <button
